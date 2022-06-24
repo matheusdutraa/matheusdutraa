@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheusdutraa
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Pyhon
-- 💞️ I’m looking to collaborate on Raspberry and artificial intelligence projects
+- 💞️ I’m looking to collaborate on Raspberry Pi and artificial intelligence projects
 - 📫 How to reach me : matheusdutratds@gmail.com
 
 <!---
