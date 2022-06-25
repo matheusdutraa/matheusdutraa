@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pyhon
 - 💞️ I’m looking to collaborate on Raspberry Pi and artificial intelligence projects
 - 📫 How to reach me : matheusdutratds@gmail.com
-- 🎻 Listen to this beautiful music: https://youtu.be/AQMkEUPMqJA
+- 🎻 Listen to this beautiful music: https://youtu.be/XCp_X6_1R4w
 
 <!---
 matheusdutraa/matheusdutraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
