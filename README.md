@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/74274788/176998903-44b5edd5-c164-4fbe-b7a7-846bc8d35742.png)
+![image](https://user-images.githubusercontent.com/74274788/176998946-e208ef9a-88e2-490c-830c-0824bdbea9d5.png)
 
 <!---
 matheusdutraa/matheusdutraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
