@@ -1,1 +1,1 @@
-![DanceDanceBIG](https://user-images.githubusercontent.com/74274788/197078166-c345d8e0-bdbb-4eba-a9b7-cb18853e2187.gif)
+![image](https://user-images.githubusercontent.com/74274788/213555196-945fcacb-425e-44f5-b687-c7cd8367b032.png)
